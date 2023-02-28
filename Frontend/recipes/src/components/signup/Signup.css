@@ -1,0 +1,75 @@
+.main-container{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: bisque;
+    height: 900px;
+}
+
+.main-container h1{
+    color: grey;
+    font-weight: 600;
+    margin-right: 200px;
+    display: inline;
+}
+#back{
+    color: gray;
+    font-size: 50px;
+    margin-right: 20px;  
+}
+
+#email{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid grey;
+    margin-left: 0%;
+    margin-top: 60px;
+    background-color: #b9c0fd04;
+}
+
+#password{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid grey;
+    margin-left: 0%;
+    margin-top: 60px;
+    background-color: #b9c0fd04;
+}
+
+#rep-password{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid grey;
+    margin-left: 0%;
+    margin-top: 60px;
+    background-color: #b9c0fd04;
+}
+
+
+.main-container button{
+    color: aliceblue;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    border-color:grey ;
+    border-radius: 20px;
+    background-color: rgb(84, 89, 236);
+    font-weight: bold;
+}
+
+
+#check{
+    color: rgb(44, 114, 195);
+}
+
+#check span{
+    color: red;
+    font-style: oblique;
+}

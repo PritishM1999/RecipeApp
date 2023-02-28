@@ -1,0 +1,27 @@
+#logo{
+    height: 70px;
+    width: 300px;
+    margin-right: 900px;
+}
+
+#new{
+    height: 100px;
+    width: 100px;
+    justify-content: left;
+}
+
+#search{
+    width: 600px;
+    height: 50px;
+    border-radius: 15px;
+    display: inline;
+    background-color: none;
+    position: relative;
+    z-index: -1;
+}
+
+#searchic{
+    margin-right: -40px;
+    z-index: 1;
+    
+}

@@ -1,0 +1,98 @@
+.Add{
+    background-color: rgb(27, 16, 12);
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 900px;
+
+}
+
+.Add h1, p, label{
+    color: aliceblue;
+
+}
+
+.Add label{
+    align-self: left;
+    margin-right: 200px;
+}
+
+#title{
+    align-self: left;
+    margin-right: 170px;
+}
+
+
+#author{
+    align-self: left;
+    margin-right: 200px;
+}
+
+#upImage{
+    align-self: left;
+    margin-left: 50px;
+}
+
+#ingredients{
+    align-self: left;
+    margin-right: 170px;
+}
+
+#instructions{
+    align-self: left;
+    margin-right: 130px;
+}
+
+#insinp{
+    margin-top: 10px;
+    margin-left: 190px;
+    width: 400px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+#indinp{
+    margin-top: 10px;
+    margin-left: 210px;
+    width: 400px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+#urlinp{
+    width: 400px;
+    margin-left: 40px;
+    border-radius: 5px;
+    height: 30px;
+}
+
+
+#imginp2{
+    width: 400px;
+    margin-left: 100px;
+    border-radius: 5px;
+    height: 30px;
+    color: aliceblue;
+}
+
+#titleinp{
+    width: 400px;
+    margin-left: 210px;
+    border-radius: 5px;
+    height: 30px;
+}
+
+#authinp{
+    width: 400px;
+    margin-left: 210px;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.Add button{
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    color:  white;
+    background-color: rgb(79, 79, 196);
+    border-radius: 5px;
+}
